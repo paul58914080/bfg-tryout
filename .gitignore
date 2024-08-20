@@ -4,3 +4,8 @@
 
 # Java project files
 target/
+
+# bfg
+..bfg-report/
+
+replace.txt
